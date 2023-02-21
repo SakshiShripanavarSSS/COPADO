@@ -192,4 +192,13 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
+     <fields>
+        <fullName>Thirdfeild__c</fullName>
+        <externalId>false</externalId>
+        <label>emailadress</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
