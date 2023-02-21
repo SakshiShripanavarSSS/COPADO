@@ -163,6 +163,14 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>time__c</fullName>
+        <externalId>false</externalId>
+        <label>time</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Time</type>
+    </fields>
+    <fields>
         <fullName>Lastname__c</fullName>
         <externalId>false</externalId>
         <label>Lastname</label>
